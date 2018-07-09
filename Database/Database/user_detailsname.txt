@@ -1,0 +1,5 @@
+rowid name
+1  krushi
+1 krushirajtula
+2  hari
+3  abhi

@@ -1,0 +1,3 @@
+rowid cola
+1 a
+1 krushirajtula

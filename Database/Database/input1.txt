@@ -1,0 +1,6 @@
+other_details
+0 col1 col2 col3 col4 col5
+i 1 2 3 4 5
+i 5 4 3 2 1
+i 0 9 8 7 6
+i 7 8 2 9 1

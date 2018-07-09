@@ -1,0 +1,6 @@
+rowid col1
+1 1
+2 5
+2 krushirajtula
+3 0
+4 7

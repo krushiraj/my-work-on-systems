@@ -1,0 +1,6 @@
+user_details
+0 ,name, phone, address
+i, krushi, 8143827431, adilabad
+i, hari, 8919078190, hyderabad
+i, abhi, 8145632743, karimnagar
+2, , , harinb

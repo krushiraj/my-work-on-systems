@@ -1,0 +1,5 @@
+rowid address
+1  adilabad
+2  hyderabad
+2  harinb
+3  karimnagar
